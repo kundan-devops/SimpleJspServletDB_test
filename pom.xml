@@ -43,6 +43,14 @@
     <version>2.0</version>
     <scope>provided</scope>
 </dependency>
+	    
+	    <!-- https://mvnrepository.com/artifact/org.jacoco/org.jacoco.report -->
+<dependency>
+    <groupId>org.jacoco</groupId>
+    <artifactId>org.jacoco.report</artifactId>
+    <version>0.8.2</version>
+</dependency>
+
 </dependencies>
 
   
