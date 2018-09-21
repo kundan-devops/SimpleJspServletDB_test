@@ -14,9 +14,6 @@ import javax.servlet.http.HttpServletResponse;
 import com.daniel.dao.UserDao;
 import com.daniel.model.User;
 
-public void testPmdMethod() {
-    System.out.println("testPmdMethod");
-}
 public class UserController extends HttpServlet {
     String testPmd;
     
