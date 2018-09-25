@@ -16,7 +16,7 @@
                 <th>First Name</th>
                 <th>Last Name</th>
                 <th>DOB</th>
-                <th>Email</th>
+                <th>Email-ID</th>
                 <th colspan=2>Action</th>
             </tr>
         </thead>
