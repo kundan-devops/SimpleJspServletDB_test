@@ -9,6 +9,20 @@
 	<appname>SimpleJspServletDB</appname>
 	<appversion>0.0.1-SNAPSHOT</appversion>
 </properties>
+<distributionManagement>
+		<repository>
+			<id>SimpleJspServletDB_test-RELESE</id>
+			<name>SimpleJspServletDB_test-RELESE</name>
+			<url>http://localhost:8081/nexus/content/repositories/SimpleJspServletDB_test-RELESE</url>
+		</repository>
+		<snapshotRepository>
+			<id>SimpleJspServletDB_test-SNAPSHOT</id>
+			<name>SimpleJspServletDB_test-SNAPSHOT</name>
+			<url>http://localhost:8081/nexus/content/repositories/SimpleJspServletDB_test-SNAPSHOT</url>
+		</snapshotRepository>
+	</distributionManagement>
+
+
   <build>
     <sourceDirectory>src</sourceDirectory>
     <resources>
