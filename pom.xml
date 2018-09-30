@@ -49,6 +49,17 @@
       </plugin>
     </plugins>
   </build>
+	
+	<distributionManagement>
+		<repository>
+			<id>SimpleJspServletDB_test-RELESE</id>
+    <url>http://localhost:8081/nexus/content/repositories/SimpleJspServletDB_test-RELESE</url>
+		</repository>
+  <snapshotRepository>
+    <id>SimpleJspServletDB_test-SNAPSHOT</id>
+    <url>http://localhost:8081/nexus/content/repositories/SimpleJspServletDB_test-SNAPSHOT</url>
+  </snapshotRepository>
+</distributionManagement>
     <dependencies>
 
   <!-- https://mvnrepository.com/artifact/javax.servlet/jsp-api -->
