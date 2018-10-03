@@ -51,15 +51,9 @@
   </build>
 	
 <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>SYNPS6144348-releases</name>
-        <url>http://localhost:8040/artifactory/SimpleJspServletDB_test-SNAPSHOT</url>
-    </repository>
     <snapshotRepository>
-        <id>snapshots</id>
-        <name>SYNPS6144348-snapshots</name>
-        <url>http://localhost:8040/artifactory/SimpleJspServletDB_test-SNAPSHOT</url>
+        <id>test</id>
+        <url>http://localhost:8040/artifactory/test</url>
     </snapshotRepository>
 </distributionManagement>
 	
