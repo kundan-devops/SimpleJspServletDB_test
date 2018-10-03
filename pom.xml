@@ -52,8 +52,8 @@
 	
 <distributionManagement>
     <snapshotRepository>
-        <id>test</id>
-        <url>http://localhost:8040/artifactory/test</url>
+        <id>snapshots</id>
+        <url>http://localhost:8040/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
 	
