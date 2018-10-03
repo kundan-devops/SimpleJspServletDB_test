@@ -54,7 +54,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>SYNPS6144348-snapshots</name>
-        <url>http://localhost:8040/artifactory/libs-snapshot-local</url>
+        <url>http://10.119.116.89:8040/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
 	
