@@ -49,13 +49,15 @@
       </plugin>
     </plugins>
   </build>
-	
+
 <distributionManagement>
     <snapshotRepository>
-        <id>libs-snapshot-local</id>
+        <id>snapshots</id>
+        <name>SYNPS6144348-snapshots</name>
         <url>http://localhost:8040/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
+	
 	
 	
     <dependencies>
