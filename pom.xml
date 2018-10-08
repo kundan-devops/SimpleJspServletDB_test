@@ -45,7 +45,7 @@
 			</plugin>
 		</plugins>
 	</build>
-
+<!--
 	<distributionManagement>
 		<repository>
 			<id>releases</id>
@@ -58,7 +58,7 @@
 	</distributionManagement>
 
 
-
+-->
 	<dependencies>
 
 		<!-- https://mvnrepository.com/artifact/javax.servlet/jsp-api -->
@@ -70,11 +70,15 @@
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.jacoco/org.jacoco.report -->
+		<!--
+		
 		<dependency>
 			<groupId>org.jacoco</groupId>
 			<artifactId>org.jacoco.report</artifactId>
 			<version>0.8.2</version>
 		</dependency>
+		
+		-->
 
 	</dependencies>
 
