@@ -5,13 +5,6 @@
 	<artifactId>${appname}</artifactId>
 	<version>${appversion}</version>
 	<packaging>war</packaging>
-	<!--
-	<parent>
-		<groupId>com.example</groupId>
-		<artifactId>parent-pom</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-		<relativePath>https://github.com/Kundan2015/parentPOMExample/blob/master/pom.xml</relativePath> </parent><!-- lookup parent from repository -->
-	
 	
 	<properties>
 		<groupid>SimpleJspServletDB</groupid>
