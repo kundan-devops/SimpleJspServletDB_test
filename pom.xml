@@ -53,20 +53,20 @@
 			</plugin>
 		</plugins>
 	</build>
-<!--
+
 	<distributionManagement>
 		<repository>
 			<id>releases</id>
-			<url>http://localhost:8081/nexus/content/repositories/releases</url>
+			<url>http://10.119.116.89:8040/artifactory/libs-snapshot-releases</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
-			<url>http://localhost:8081/nexus/content/repositories/snapshots</url>
+			<url>http://10.119.116.89:8040/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
 
 
--->
+
 	<dependencies>
 
 		<!-- https://mvnrepository.com/artifact/javax.servlet/jsp-api -->
