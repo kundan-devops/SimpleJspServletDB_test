@@ -10,7 +10,7 @@
 		<groupId>com.example</groupId>
 		<artifactId>parent-pom</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath>https://github.com/Kundan2015/parentPOMExample/pom.xml</relativePath> <!-- lookup parent from repository -->
+		<relativePath>https://github.com/Kundan2015/parentPOMExample/blob/master/pom.xml</relativePath> <!-- lookup parent from repository -->
 	</parent>
 	
 	<properties>
