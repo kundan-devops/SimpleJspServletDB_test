@@ -5,6 +5,13 @@
 	<artifactId>${appname}</artifactId>
 	<version>${appversion}</version>
 	<packaging>war</packaging>
+	
+	<parent>
+		<groupId>com.example</groupId>
+		<artifactId>parent-pom</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	
 	<properties>
 		<groupid>SimpleJspServletDB</groupid>
 		<appname>SimpleJspServletDB</appname>
