@@ -9,7 +9,7 @@
 	<properties>
 		<groupid>SimpleJspServletDB</groupid>
 		<appname>SimpleJspServletDB</appname>
-		<appversion>0.0.1-SNAPSHOT</appversion>
+		<appversion>0.0.1</appversion>
 	</properties>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
