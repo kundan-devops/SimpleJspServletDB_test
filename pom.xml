@@ -50,11 +50,11 @@
 	<distributionManagement>
 		<repository>
 			<id>releases</id>
-			<url>http://10.119.116.89:8040/artifactory/libs-snapshot-releases</url>
+			<url>http://localhost:8081/nexus/content/repositories/releases</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
-			<url>http://10.119.116.89:8040/artifactory/libs-snapshot-local</url>
+			<url>http://localhost:8081/nexus/content/repositories/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 
